@@ -1,0 +1,141 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "name": "mysql.datasource.test1",
+      "type": "com.yuanfang.config.DBConfig1"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "name": "mysql.datasource.test2",
+      "type": "com.yuanfang.config.DBConfig2"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test1.borrow-connection-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test1.login-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test1.maintenance-interval",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test1.max-idle-time",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test1.max-lifetime",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test1.max-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test1.min-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "name": "mysql.datasource.test1.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "name": "mysql.datasource.test1.test-query",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "name": "mysql.datasource.test1.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig1",
+      "name": "mysql.datasource.test1.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test2.borrow-connection-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test2.login-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test2.maintenance-interval",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test2.max-idle-time",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test2.max-lifetime",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test2.max-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "defaultValue": 0,
+      "name": "mysql.datasource.test2.min-pool-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "name": "mysql.datasource.test2.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "name": "mysql.datasource.test2.test-query",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "name": "mysql.datasource.test2.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.yuanfang.config.DBConfig2",
+      "name": "mysql.datasource.test2.username",
+      "type": "java.lang.String"
+    }
+  ]
+}

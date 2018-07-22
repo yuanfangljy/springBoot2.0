@@ -1,0 +1,14 @@
+1、怎么样访问静态资源？
+   static不是映射目录地址，是静态资源访问地址
+   直接在resources文件下，建文件夹（static）,访问用127.0.0.1:8080/images/***.jpg
+
+
+2、Freemarker
+   1、防html页面，将动态的html页面,转化成ftl模板页面,提高搜索引擎的访问
+   2、默认在，resources下的templates文件夹下面查找以***.ftl
+
+
+3、jsp整合springboot
+   1、springboot 没有去整合jsp，所以要提高外部的tomcat的jar。
+   2、创建项目的是不能是jar类型，要是war类型
+   3、要配置application.propertis文件
